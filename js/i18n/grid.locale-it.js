@@ -81,7 +81,7 @@ $.jgrid.regional["it"] = {
 	del : {
 		caption: "Cancella",
 		msg: "Cancellare i record selezionati?",
-		bSubmit: "Canella",
+		bSubmit: "Cancella",
 		bCancel: "Annulla"
 	},
 	nav : {
